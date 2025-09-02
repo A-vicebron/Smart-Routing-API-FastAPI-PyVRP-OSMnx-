@@ -1,0 +1,42 @@
+{
+  "truck_station": {
+    "location": "Filonos 2-8, Keratsini 187 57"
+  },
+  "collection_points": [
+    {
+      "name": "pointA",
+      "capacity": 10,
+      "location": "Μάνου Κατράκη, Nikea 184 51"
+    },
+    {
+      "name": "pointB",
+      "location": "Laodikias 1, Nikea 184 51",
+      "capacity": 20
+    },
+    {
+      "name": "pointC",
+      "location": "Mesologgiou 15, Nikea 184 51",
+      "capacity": 10
+    },
+    {
+      "name": "pointD",
+      "location": "Panormou 8-12, Nikea 184 50",
+      "capacity": 20
+    },
+    {
+      "name": "pointE",
+      "location": "Ilioupoleos 145, Nikea 184 50",
+      "capacity": 10
+    }
+  ],
+  "trucks": [
+    {
+      "name": "truckA",
+      "capacity": 50
+    },
+    {
+      "name": "truckB",
+      "capacity": 50
+    }
+  ]
+}
